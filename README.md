@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hannes (qPlein)
 
-<!--
-**2Plein/2Plein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Science student at Örebro University, working toward a career in
+cybersecurity — with a focus on security architecture and GRC (Governance,
+Risk & Compliance).
 
-Here are some ideas to get you started:
+## What I'm working on
+- Projects where I build a system and then security-test it myself,
+  documenting vulnerabilities and fixes
+- Challenges on TryHackMe / HackTheBox
+- Coursework in Informatics with a Systems Science focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+Building my first "build & break" project — a small web app I intentionally
+make vulnerable, then document how I find and fix the issues.
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/hannespleinadius/
+- Portfolio: [In progress]
