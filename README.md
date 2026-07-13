@@ -14,6 +14,9 @@ Risk & Compliance).
 Building my first "build & break" project — a small web app I intentionally
 make vulnerable, then document how I find and fix the issues.
 
+I'm also currently working on Looplet, which is a student-focused second-hand marketplace for students
+at Örebro University.
+
 ## Links
 - LinkedIn: https://www.linkedin.com/in/hannespleinadius/
 - Portfolio: [In progress]
