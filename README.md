@@ -21,6 +21,7 @@ at Örebro University.
 
 Aswell as that I'm Currently CO-operating with PhD students to learn more about Ai-Safety 
 and also to be apart of CTF:s that are hosted through my student association.
+
 Recently completed the Omegapoint CTF 2026
 
 ## Links
