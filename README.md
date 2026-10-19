@@ -4,12 +4,17 @@ Systems Science student at Örebro University, working toward a career in
 cybersecurity — with a focus on security architecture and GRC (Governance,
 Risk & Compliance).
 
+## Proud Member of Codebase (ORU)
+- Association of Students Contributing to the future through sharing idéas and bringing together people who want to do that little extra.
+- Project Management, Team building, Mentoring & being mentored, 
+
 ## What I'm working on
 - Projects where I build a system and then security-test it myself,
   documenting vulnerabilities and fixes
 - Challenges on TryHackMe / HackTheBox
 - Coursework in Informatics with a Systems Science focus
 - App developing where It Is mainly apps focused on solving student problems.
+- A part of a team of analytics currently working on assisting and supervising newly developed stock market 
 
 
 ## Currently
